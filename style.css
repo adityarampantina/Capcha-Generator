@@ -1,0 +1,6 @@
+#captcha {
+    font-family: Arial, sans-serif;
+}
+#captchaCanvas {
+    border: 1px solid #000;
+}
